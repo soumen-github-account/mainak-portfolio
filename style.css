@@ -23,7 +23,7 @@ html {
 body{
     margin: 0;
     padding: 0;
-    background: var(--bg-color);
+    background: linear-gradient(45deg, rgb(17, 0, 44) 70%, rgb(51, 0, 84));
     color:var(--text-color);
 }
 
